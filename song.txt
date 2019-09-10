@@ -1,7 +1,12 @@
 tyryytu
 lalalal
 blabla
+<<<<<<< HEAD
 456456
 
 aaaaaaaaaa
 ---------
+=======
+
+fhfthfth
+>>>>>>> c86402d9243cadc6309b107f5343868ac0cb8647
